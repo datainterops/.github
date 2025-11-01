@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wixstatic.com/media/440576_9be0a2ec3c934f9ba7d64c26026af701~mv2.png" 
+  <img src="https://static.wixstatic.com/media/440576_8856c71a72ef4d2e8ba68b8c3b33a678~mv2.jpg" 
        alt="Data InterOps Banner" 
        width="100%" 
        style="max-width:1280px; border-radius: 12px;"/>
