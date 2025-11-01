@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://datainterops.com/assets/logo.png" alt="Data InterOps Logo" width="180"/>
+  <img src="https://static.wixstatic.com/media/440576_9c02368cd1c64f52b74d400de24e6a0b~mv2.png" alt="Data InterOps Logo" width="300"/>
 </p>
-
 <h1 align="center">Data InterOps</h1>
 <h3 align="center"><em>Modernizing Healthcare Data Exchanges</em></h3>
 
